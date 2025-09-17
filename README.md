@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Responsive Web Design**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/meowmomo?tab=repositories)
+- 👨‍💻 All of my projects are available [here]([https://github.com/meowmomo?tab=repositories](https://meowmomo.vercel.app/))
 
 - 💬 Ask me about **React, NextJS, Figma**
 

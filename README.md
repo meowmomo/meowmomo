@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meowmomo&label=Profile%20views&color=0e75b6&style=flat" alt="meowmomo" /> </p>
 
-- 🔭 I’m currently working on **my Portfolio**
+- 🔭 I’m currently working on **my [Portfolio](https://meowmomo.vercel.app/)**
 
 - 🌱 I’m currently learning **Responsive Web Design**
 
-- 👨‍💻 All of my projects are available [here](https://meowmomo.vercel.app/)
+- 👨‍💻 All of my projects are available [here](https://github.com/meowmomo?tab=repositories)
 
 - 💬 Ask me about **React, NextJS, Figma**
 
